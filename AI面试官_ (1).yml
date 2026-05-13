@@ -1,0 +1,139 @@
+app:
+  description: 辅助进行面试的对话助手
+  icon: 🤖
+  icon_background: '#FFEAD5'
+  icon_type: emoji
+  mode: chat
+  name: AI面试官_
+  use_icon_as_answer_icon: false
+dependencies:
+- current_identifier: null
+  type: marketplace
+  value:
+    marketplace_plugin_unique_identifier: langgenius/siliconflow:0.0.47@1dc82901e33f15a28b28a8e4996dc222c99b85bda95f8224525875e5121fc21d
+    version: null
+kind: app
+model_config:
+  agent_mode:
+    enabled: false
+    max_iteration: 10
+    strategy: react
+    tools: []
+  annotation_reply:
+    enabled: false
+  chat_prompt_config:
+    prompt:
+    - role: system
+      text: ''
+  completion_prompt_config:
+    conversation_histories_role:
+      assistant_prefix: ''
+      user_prefix: ''
+    prompt:
+      text: ''
+  dataset_configs:
+    datasets:
+      datasets:
+      - dataset:
+          enabled: true
+          id: 66bab9ba-9cc3-4568-9ba0-03ac0030f0ac
+    reranking_enable: true
+    reranking_mode: reranking_model
+    reranking_model:
+      reranking_model_name: netease-youdao/bce-reranker-base_v1
+      reranking_provider_name: langgenius/siliconflow/siliconflow
+    retrieval_model: multiple
+    top_k: 4
+  dataset_query_variable: ''
+  external_data_tools: []
+  file_upload:
+    allowed_file_extensions:
+    - .JPG
+    - .JPEG
+    - .PNG
+    - .GIF
+    - .WEBP
+    - .SVG
+    - .MP4
+    - .MOV
+    - .MPEG
+    - .WEBM
+    allowed_file_types: []
+    allowed_file_upload_methods:
+    - remote_url
+    - local_file
+    enabled: false
+    image:
+      detail: high
+      enabled: false
+      number_limits: 3
+      transfer_methods:
+      - remote_url
+      - local_file
+    number_limits: 3
+  model:
+    completion_params:
+      max_tokens: 200
+      response_format: text
+      stop: []
+      temperature: 0.3
+      top_p: 1
+    mode: chat
+    name: deepseek-ai/DeepSeek-V3
+    provider: langgenius/siliconflow/siliconflow
+  more_like_this:
+    enabled: false
+  opening_statement: ''
+  pre_prompt: '你是一个专业的AI面试官，正在对求职者进行模拟面试。你的面试风格是专业、鼓励、有洞察力。
+
+
+    【开场规则】
+
+    当用户首次进入对话时，请主动打招呼：
+
+    “你好，我是AI面试官，专门帮你模拟AI应用方向的面试。我准备了技术题、行为题和产品思维题，覆盖AI训练师、产品助理等岗位的核心考点。准备好了就说‘开始面试’，或者告诉我你想练习的方向。”
+
+    注意：你只需要像一个真实的面试官一样输出问题本身和反馈。绝对不要输出任何关于题目难度、题目类型、引用来源的备注信息。
+
+
+    【出题规则】
+
+    1. 当用户表示可以开始时，从知识库中随机抽取一道题目，以自然语言向用户提问。
+
+    2. 每次只输出一个问题，不要一次性输出多个问题。
+
+    3. 题目应来自知识库，不要自己编造题目。
+
+
+    【反馈规则】
+
+    1. 用户回答后，先给出简短评价（1-2句话），指出一个优点和一个可改进点。
+
+    2. 评价后询问：“是否继续下一题？”
+
+    3. 反馈语气保持鼓励，但不空洞。
+
+
+    【结束规则】
+
+    当用户表示想结束面试时，输出以下感谢语：
+
+    “面试结束，感谢你的参与！建议回去后重点巩固刚才提到的改进点，多练习结构化表达。随时可以再找我模拟面试，祝你求职顺利！”'
+  prompt_type: simple
+  retriever_resource:
+    enabled: true
+  sensitive_word_avoidance:
+    config: {}
+    enabled: false
+    type: ''
+  speech_to_text:
+    enabled: false
+  suggested_questions: []
+  suggested_questions_after_answer:
+    enabled: false
+  text_to_speech:
+    enabled: false
+    language: ''
+    voice: ''
+  user_input_form: []
+version: 0.6.0
