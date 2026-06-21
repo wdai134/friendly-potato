@@ -1,0 +1,70 @@
+# 安全白名单配置 — 三色分级
+# 优先级：🔴 > 🟢 > 🟡（封锁优先于白名单，白名单优先于谨慎）
+#
+# 🟢 green  — 白名单：明确保护，永远不清理
+# 🟡 yellow — 谨慎：清理前需额外人工确认
+# 🔴 red    — 封锁：executor 必须拒绝，绝不触碰
+
+safelist:
+  # ════════════════════════════════════════════════════════════
+  # 🔴 封锁 — executor 绝不能碰
+  # ════════════════════════════════════════════════════════════
+  - pattern: "C:/Windows/**"
+    tier: red
+    reason: "Windows 系统目录"
+  - pattern: "C:/Program Files/**"
+    tier: red
+    reason: "程序安装目录"
+  - pattern: "C:/Program Files (x86)/**"
+    tier: red
+    reason: "程序安装目录"
+  - pattern: "*.sys"
+    tier: red
+    reason: "系统驱动文件"
+  - pattern: "*.dll"
+    tier: red
+    reason: "系统动态链接库"
+  - pattern: "*.exe"
+    tier: red
+    reason: "可执行文件"
+
+  # ════════════════════════════════════════════════════════════
+  # 🟢 白名单 — 永远不清理
+  # ════════════════════════════════════════════════════════════
+  - pattern: "**/Documents/**"
+    tier: green
+    reason: "用户文档目录"
+  - pattern: "**/Obsidian Vault/**"
+    tier: green
+    reason: "Obsidian 笔记仓库"
+  - pattern: "*.pst"
+    tier: green
+    reason: "Outlook 邮件存档"
+  - pattern: "*.psd"
+    tier: green
+    reason: "Photoshop 设计源文件"
+  - pattern: "*.ai"
+    tier: green
+    reason: "Illustrator 设计源文件"
+  - pattern: "*.cdr"
+    tier: green
+    reason: "CorelDRAW 设计源文件"
+  - pattern: ".git/**"
+    tier: green
+    reason: "Git 版本控制"
+
+  # ════════════════════════════════════════════════════════════
+  # 🟡 谨慎 — 清理前需额外确认
+  # ════════════════════════════════════════════════════════════
+  - pattern: "*.pdf"
+    tier: yellow
+    reason: "PDF文档，确认后清理"
+  - pattern: "*.zip"
+    tier: yellow
+    reason: "压缩包，确认后清理"
+  - pattern: "*.rar"
+    tier: yellow
+    reason: "压缩包，确认后清理"
+  - pattern: "*.bak"
+    tier: yellow
+    reason: "备份文件，确认后清理"

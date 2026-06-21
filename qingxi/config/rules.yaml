@@ -1,0 +1,88 @@
+# 文件清理规则配置
+# 每个规则包含：name(规则名), patterns(匹配的文件模式), max_age_days(最大保留天数), action(动作)
+# action 类型：cleanup(建议清理), review(需人工判断), keep(永久保留)
+
+rules:
+  # 临时文件和缓存
+  - name: "临时文件"
+    patterns:
+      - "*.tmp"
+      - "*.temp"
+      - "*.cache"
+      - "*~"
+      - "*.swp"
+      - "*.bak"
+    max_age_days: 7
+    action: cleanup
+
+  # 日志文件
+  - name: "过期日志"
+    patterns:
+      - "*.log"
+      - "*.log.*"
+    max_age_days: 30
+    action: cleanup
+
+  # 构建产物
+  - name: "构建产物"
+    patterns:
+      - "*.pyc"
+      - "__pycache__/**"
+      - "*.o"
+      - "*.obj"
+      - "*.class"
+    max_age_days: 7
+    action: cleanup
+
+  # 压缩包和备份
+  - name: "旧备份文件"
+    patterns:
+      - "*.zip"
+      - "*.tar.gz"
+      - "*.rar"
+      - "*.7z"
+      - "*.backup"
+    max_age_days: 60
+    action: review
+
+  # 设计源文件 — 永远不自动清理
+  - name: "设计源文件"
+    patterns:
+      - "*.psd"
+      - "*.ai"
+      - "*.cdr"
+      - "*.eps"
+      - "*.svg"
+    max_age_days: 9999
+    action: keep
+
+  # 图片导出 — 超过30天可能是废稿
+  - name: "图片导出文件"
+    patterns:
+      - "*.png"
+      - "*.jpg"
+      - "*.jpeg"
+      - "*.bmp"
+      - "*.tiff"
+      - "*.webp"
+    max_age_days: 30
+    action: review
+
+  # PDF 文档
+  - name: "旧PDF文档"
+    patterns:
+      - "*.pdf"
+    max_age_days: 90
+    action: review
+
+  # Office 文档
+  - name: "旧Office文档"
+    patterns:
+      - "*.doc"
+      - "*.docx"
+      - "*.xls"
+      - "*.xlsx"
+      - "*.ppt"
+      - "*.pptx"
+    max_age_days: 90
+    action: review

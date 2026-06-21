@@ -1,0 +1,73 @@
+# 面试题目分类体系
+# 修改此文件后重启应用即可生效
+
+categories:
+  - name: Python基础
+    description: Python 语言特性、标准库、常见陷阱
+    icon: "🐍"
+
+  - name: 算法与数据结构
+    description: 排序、查找、树、图、动态规划等
+    icon: "🔢"
+
+  - name: 系统设计
+    description: 架构设计、分布式系统、微服务、高并发
+    icon: "🏗️"
+
+  - name: 数据库
+    description: SQL、NoSQL、索引优化、事务
+    icon: "🗄️"
+
+  - name: 网络协议
+    description: HTTP、TCP/IP、DNS、WebSocket
+    icon: "🌐"
+
+  - name: 操作系统
+    description: 进程线程、内存管理、文件系统
+    icon: "💻"
+
+  - name: 机器学习
+    description: 监督/无监督学习、特征工程、模型评估
+    icon: "🤖"
+
+  - name: 深度学习
+    description: 神经网络、CNN、RNN、Transformer
+    icon: "🧠"
+
+  - name: NLP自然语言处理
+    description: 文本处理、词向量、LLM、RAG
+    icon: "📝"
+
+  - name: 计算机视觉
+    description: 图像处理、目标检测、图像生成
+    icon: "👁️"
+
+  - name: 前端开发
+    description: HTML/CSS/JS、React/Vue、浏览器原理
+    icon: "🎨"
+
+  - name: 后端开发
+    description: API 设计、中间件、认证授权、消息队列
+    icon: "⚙️"
+
+  - name: DevOps运维
+    description: Docker、K8s、CI/CD、监控
+    icon: "🚀"
+
+  - name: 行为面试
+    description: 团队协作、冲突解决、领导力、职业规划
+    icon: "💬"
+
+  - name: 项目经验
+    description: 项目描述、技术选型、难点解决
+    icon: "📋"
+
+  - name: 其他
+    description: 未归类的通用题目
+    icon: "📌"
+
+difficulty_levels:
+  - 初级    # 基础概念，入门水平
+  - 中等    # 需要一定理解和实践经验
+  - 高级    # 深入原理，系统级理解
+  - 专家    # 行业前沿，架构级决策

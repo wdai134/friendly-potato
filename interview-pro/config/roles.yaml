@@ -1,0 +1,86 @@
+# 面试岗位体系 — 岗位→阶段→分类 三层组织
+# 修改此文件后重启应用即可生效
+
+roles:
+  - name: 数据标注
+    icon: "🏷️"
+    description: "AI 数据标注员面试准备"
+    categories:
+      - Python基础
+      - 数据库
+      - 后端开发
+      - 行为面试
+      - 项目经验
+    stages:
+      - 初筛
+      - 技术面
+      - HR面
+
+  - name: AI产品助理
+    icon: "📋"
+    description: "AI 产品助理面试准备"
+    categories:
+      - Python基础
+      - 机器学习
+      - NLP自然语言处理
+      - 系统设计
+      - 行为面试
+      - 项目经验
+    stages:
+      - 初筛
+      - 产品面
+      - 技术面
+      - HR面
+
+  - name: AI应用开发
+    icon: "💻"
+    description: "AI 应用开发工程师面试准备"
+    categories:
+      - Python基础
+      - 算法与数据结构
+      - 数据库
+      - 网络协议
+      - 系统设计
+      - 后端开发
+      - DevOps运维
+      - 机器学习
+      - 深度学习
+      - NLP自然语言处理
+      - 行为面试
+      - 项目经验
+    stages:
+      - 初筛
+      - 技术一面
+      - 技术二面
+      - HR面
+
+  - name: Prompt工程师
+    icon: "✍️"
+    description: "Prompt 工程师面试准备"
+    categories:
+      - Python基础
+      - NLP自然语言处理
+      - 机器学习
+      - 深度学习
+      - 行为面试
+      - 项目经验
+    stages:
+      - 初筛
+      - 技术面
+      - 实操测试
+      - HR面
+
+  - name: AI训练师
+    icon: "🎯"
+    description: "AI 训练师面试准备 — 数据质量体系、标注规范设计、模型评估"
+    categories:
+      - Python基础
+      - 机器学习
+      - NLP自然语言处理
+      - 深度学习
+      - 行为面试
+      - 项目经验
+    stages:
+      - 初筛
+      - 技术面
+      - HR面

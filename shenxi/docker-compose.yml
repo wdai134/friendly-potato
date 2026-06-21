@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  shenxi:
+    build: .
+    container_name: shenxi
+    ports:
+      - "80:8501"
+    volumes:
+      - ./kb:/app/kb
+      - ./data:/app/data
+    restart: unless-stopped

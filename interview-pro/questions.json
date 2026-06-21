@@ -1,0 +1,1814 @@
+[
+  {
+    "title": "请做个自我介绍",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你为什么想做数据标注这个岗位？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你对数据标注的工作内容了解多少？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你觉得自己做数据标注有什么优势？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你对这份工作的薪资和发展有什么期待？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你用过Python吗？做过什么？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "Python基础",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果给你一个CSV文件，让你统计某一列有多少种不同的值，你会怎么做？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "Python基础",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "Python的列表和字典有什么区别？什么时候用哪个？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "Python基础",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你知道哪些数据标注工具？用过吗？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你能接受加班或者赶工期吗？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你觉得数据标注和AI模型训练之间是什么关系？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "机器学习",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "一条数据标错了会对模型产生什么影响？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "机器学习",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你觉得什么样的标注数据算\"质量好\"？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "机器学习",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果标注规范里写的不清楚，一条数据你不知道该标什么类别，你会怎么办？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "准确率、召回率、F1值，你了解这些概念吗？简单说一下",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "机器学习",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果每天要标注200条数据，但你觉得太枯燥了，效率越来越低，你会怎么调整？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你觉得自己标注的效率比别人低，你会怎么办？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "发现一批数据里有大量标注错误（不是你标的），你会怎么处理？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "用Python批量读取文件夹里的所有图片文件名，你会怎么写？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "Python基础",
+    "difficulty": "初级",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你用过JSON格式吗？如果给你一个JSON文件，让你提取某个字段，你会怎么做？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "Python基础",
+    "difficulty": "初级",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你做的项目里，有没有涉及数据处理或数据质量的经历？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你在清析文件管家里设计了安全分级，这个过程和标注工作有什么相似之处？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "数据标注是重复性很高的工作，一天可能要标注几百条。你能接受吗？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你怎么在重复工作中保持专注和准确？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你之前做的都是AI开发项目，来做标注会不会觉得\"降级\"了？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果同事标注的质量不好，你会怎么沟通？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你对自己的职业规划是什么？标注做多久？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "三个月的试用期，单休，转正才买社保。你觉得这个条件你能接受吗？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "说说你最自豪的一个项目",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你在项目中遇到过最大的困难是什么？怎么解决的？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "中等",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你觉得你做项目和做标注，方法上有什么相通的地方？",
+    "role": "数据标注",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "中等",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "请做个自我介绍",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你为什么想做AI产品助理？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你理解的AI产品助理是做什么的？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你用过哪些AI产品？哪个让你印象最深？为什么？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你觉得AI产品和传统互联网产品最大的区别是什么？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "专科出身做产品，你觉得你的竞争力在哪？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你用过Python吗？到什么程度？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "Python基础",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你有没有和用户直接沟通的经历？举个例",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你在深析项目里怎么确定你爸真正需要什么功能？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "中等",
+    "tags": [
+      "stage:产品面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "说一个你做的功能，用户反馈后你发现做错了，然后怎么改的？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "中等",
+    "tags": [
+      "stage:产品面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "深析从最初的版本到现在，你做的最重要的一个产品决策是什么？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "中等",
+    "tags": [
+      "stage:产品面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "非技术用户（比如你爸）提了一个技术上很难实现的需求，你怎么处理？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "系统设计",
+    "difficulty": "中等",
+    "tags": [
+      "stage:产品面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你怎么判断一个需求值不值得做？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:产品面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "清析文件管家的安全分级是怎么设计的？这个设计的出发点是什么？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "中等",
+    "tags": [
+      "stage:产品面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果你要给一个完全不懂AI的老板解释为什么公司需要一个AI产品，你会怎么说？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:产品面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你做过三个项目，你觉得哪个项目的产品决策最值得复盘？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "中等",
+    "tags": [
+      "stage:产品面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你有没有砍掉过已经做了的功能？为什么？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "中等",
+    "tags": [
+      "stage:产品面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你选SQLite而不是PostgreSQL给深析，这个决策是怎么做的？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "系统设计",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "RAG是什么？你在项目里怎么用的？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "初级",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果开发说\"这个需求技术上实现不了\"，你怎么判断他说的是真的还是嫌麻烦？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "系统设计",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你怎么评估一个AI模型在这个场景下够不够用？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "机器学习",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "深析为什么用了FTS5而不是Elasticsearch？如果我要求产品支持百万级文档检索，你还选FTS5吗？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "系统设计",
+    "difficulty": "高级",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "给你一个新需求\"用户希望能用语音和AI对话\"，你怎么做产品方案？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "系统设计",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "产品的响应时间从3秒变到8秒，用户开始抱怨。你怎么排查和决策？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "系统设计",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你觉得自己最大的弱点是什么？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你的同学都在工厂实习，你在做AI项目。你觉得你走的这条路是对的吗？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果团队里工程师不同意你的产品方案，你会怎么办？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你对薪资的期待是多少？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你未来的职业规划是什么？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你手上有三个需求，产品经理说都重要，但开发说只能做一个。你怎么处理？",
+    "role": "AI产品助理",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "请做个自我介绍",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你三个月做了三个项目，分别用了什么技术栈？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你写的代码和计算机专业毕业的人写的有什么区别？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "Python的装饰器是什么？你在项目中用过吗？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "Python基础",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你用过哪些数据库？SQLite和MySQL有什么区别？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "数据库",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "Web应用中如何处理用户认证？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "后端开发",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "Docker是什么？你用过吗？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "DevOps运维",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "git的基本操作说一下。merge和rebase有什么区别？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "DevOps运维",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "Python的GIL是什么？它对你的项目有什么实际影响？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "Python基础",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术一面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你用过Python的哪些库处理并发？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "Python基础",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术一面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你在深析里用SQLite存了什么？为什么用FTS5而不用LIKE？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "数据库",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术一面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "数据库索引的原理是什么？你建过哪些索引？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "数据库",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术一面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "SQLite的外键约束默认不开启，你怎么处理的？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "数据库",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术一面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "RESTful API设计的基本原则是什么？你的项目里怎么用的？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "后端开发",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术一面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果API请求量从每天100次涨到10000次，你会怎么优化？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "后端开发",
+    "difficulty": "高级",
+    "tags": [
+      "stage:技术一面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你做过测试吗？pytest覆盖率多少？怎么写了一个测试用例？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "Python基础",
+    "difficulty": "初级",
+    "tags": [
+      "stage:技术一面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你用过Streamlit做Web面板，和传统前后端分离有什么区别？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "后端开发",
+    "difficulty": "初级",
+    "tags": [
+      "stage:技术一面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "深析的架构画一下。从用户发消息到AI回复，经过了哪些步骤？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "系统设计",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术二面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "RAG系统的核心链路是什么？你踩过哪些坑？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术二面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "面试官Pro的双数据库分离是怎么设计的？为什么分开？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "系统设计",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术二面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你的项目从单机部署如果要升级到多用户，最大的瓶颈在哪？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "系统设计",
+    "difficulty": "高级",
+    "tags": [
+      "stage:技术二面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "LangChain的Chain和Agent有什么区别？你项目中用的哪种？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术二面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你在深析里用SearXNG做搜索聚合，为什么不直接用百度/Google API？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "系统设计",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术二面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "面试官Pro的evaluator模块怎么保证AI评分可靠？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "系统设计",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术二面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你做过CI/CD吗？GitHub Actions的流程怎么配的？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "DevOps运维",
+    "difficulty": "初级",
+    "tags": [
+      "stage:技术二面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果让你重新设计深析的知识库，你会用什么方案？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "系统设计",
+    "difficulty": "高级",
+    "tags": [
+      "stage:技术二面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "深析和清析的技术架构有哪些可以复用的？你实际复用了什么？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术二面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "三个项目里踩过的最典型的工程坑是什么？后来怎么杜绝的？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术二面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "面试官Pro模仿清析的agent/结构，这样做的收益和代价是什么？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术二面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你自学三个月的成长路径是怎样的？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你和队长是怎么协作的？举个例子",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你最大的技术弱点是什么？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "对第一份工作的期望是什么？最看重什么？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果一个需求你觉得技术上应该做A，但产品经理坚持做B，你怎么处理？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你的薪资期望？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "未来三年的职业规划？",
+    "role": "AI应用开发",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "请做个自我介绍",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你怎么理解Prompt工程师这个岗位？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你用过哪些大模型？能说说它们之间的区别吗？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你的DeepSeek对话超400万字，你总结出了哪些提Prompt的技巧？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "Prompt工程和传统软件开发有什么本质不同？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你做过的最复杂的Prompt是什么样的？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "用Python调过哪个大模型的API？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "Python基础",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你在深析里设计了三节思考链（检索→推理→输出），这个架构是怎么来的？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "面试官Pro的evaluator是怎么用Prompt做四维评分的？Prompt里写了什么？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "System Prompt和User Prompt有什么区别？你分别怎么设计？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "初级",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你怎么保证一个Prompt在不同输入下输出质量稳定？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "面试官Pro的evaluator必须返回严格JSON，你怎么在Prompt里保证格式？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "模拟模式里AI代入刘一鸣人设生成回答，这个Prompt是怎么设计的？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你说得出few-shot、chain-of-thought、self-consistency这几个概念吗？你用过哪些？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果一个Prompt每次返回都不一样，质量时好时坏，你会怎么排查和改进？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "怎么评估一个Prompt好不好？你有自己的评估框架吗？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "机器学习",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你在配置文件里把Prompt和代码分离了（prompts.yaml），为什么这么设计？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "系统设计",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "怎么处理Prompt注入攻击？举个例子",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "高级",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "给你一个场景：面试官Pro的模拟模式回答太长（360-458字），目标是控制在150-300字。你怎么改Prompt？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "中等",
+    "tags": [
+      "stage:实操测试"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果你要让DeepSeek扮演一个严格的代码审查员，写出这套Prompt的大纲",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "中等",
+    "tags": [
+      "stage:实操测试"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "面试官Pro的mocker需要同时注入身份骨架+经验上下文+用户问题。你怎么组织这三段信息的优先级和格式？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "中等",
+    "tags": [
+      "stage:实操测试"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你发现DeepSeek V4在某些分类题目上评分偏松（总是打高分），你会在Prompt里加什么来校准？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "中等",
+    "tags": [
+      "stage:实操测试"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "用Python写一段代码：调DeepSeek API，传System Prompt + User Prompt，解析返回的JSON",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "Python基础",
+    "difficulty": "初级",
+    "tags": [
+      "stage:实操测试"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "面试官Pro从deepseek-chat切到deepseek-v4-flash后，如果回答风格变了，你会怎么调试？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "中等",
+    "tags": [
+      "stage:实操测试"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你怎么保持对AI行业新技术的敏感度？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你自学不看教程的方法论是怎样的？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果你设计的Prompt上线后被用户发现输出质量有问题，你怎么处理？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你觉得Prompt工程师这个岗位1年后还会存在吗？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你的薪资期望？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你未来想成为什么样的技术人？",
+    "role": "Prompt工程师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "请做个自我介绍",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你怎么理解AI训练师这个岗位？和标注员有什么区别？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你做的项目里，有没有涉及数据质量的工作？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你觉得什么样的数据算\"好数据\"？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "机器学习",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "AI训练需要哪些环节？说一下你理解的全流程",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "机器学习",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "用过Python做数据处理吗？到什么程度？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "Python基础",
+    "difficulty": "初级",
+    "tags": [
+      "stage:初筛"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你怎么设计一套标注规范？从哪些方面考虑？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "机器学习",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "给一张图片分类的标注任务，你会设计什么样的标注SOP？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "机器学习",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你怎么判断一条标注数据的质量好不好？有具体的验收标准吗？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "机器学习",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果标注团队10个人，每人标注质量参差不齐，你怎么统一标准？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "准确率、召回率、Kappa系数，解释一下分别代表什么？你在什么场景用过？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "机器学习",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你在清析里做过分类规则，这个经验怎么用到标注质量控制上？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "深析的RAG相似度阈值从0.75调到0.5，这个调参过程和标注质量有什么关系？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果你拿到一批别人标好的数据，你怎么快速评估这批数据的整体质量？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "机器学习",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "标注员反馈\"这个规范写的不清楚我不知道怎么标\"，你会怎么改进？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "怎么判断是不是应该引入自动化标注？哪些任务适合自动化，哪些必须人工？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "机器学习",
+    "difficulty": "中等",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "面试官Pro的retriever用的是静态路由而不是向量检索，如果让你升级到向量检索，数据这块你要准备什么？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "NLP自然语言处理",
+    "difficulty": "高级",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "模型上线后用户反馈回答质量下降，你怎么排查是不是训练数据的问题？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "机器学习",
+    "difficulty": "高级",
+    "tags": [
+      "stage:技术面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你怎么在重复性高的工作中保持标准和热情？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果标注团队里有人不愿意按规范来，觉得\"差不多就行\"，你怎么沟通？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "中等",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "你做过的AI开发项目和训练师岗位有什么关联？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "项目经验",
+    "difficulty": "中等",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "对薪资的期待？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "未来三年的职业规划？这个岗位你打算做多久？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "初级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  },
+  {
+    "title": "如果让你从头搭建一个标注团队，你会分几步？",
+    "role": "AI训练师",
+    "content": "",
+    "answer": "",
+    "category": "行为面试",
+    "difficulty": "高级",
+    "tags": [
+      "stage:HR面"
+    ],
+    "source": "batch-import"
+  }
+]

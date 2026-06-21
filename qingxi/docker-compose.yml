@@ -1,0 +1,37 @@
+# 文件清理 Agent — 一键部署配置
+#
+# 使用方式:
+#   1. 复制 .env.example 为 .env，填写 DeepSeek API Key
+#   2. 准备测试数据: mkdir -p test-data && 放一些旧文件进去
+#   3. 构建镜像: docker-compose build
+#   4. 预览模式: docker-compose run --rm cleaner --dry-run
+#   5. 正式运行: docker-compose run --rm cleaner
+
+version: "3.9"
+
+services:
+  cleaner:
+    build: .
+    image: file-cleaner-agent:latest
+    container_name: file-cleaner
+
+    env_file:
+      - .env
+
+    environment:
+      - SCAN_DIR=/data/to-clean
+      - QUARANTINE_DIR=/data/quarantine
+      - LOG_LEVEL=INFO
+
+    volumes:
+      # 待清理的目录 — 修改为实际路径
+      - ./test-data:/data/to-clean
+      # 隔离区 — 清理的文件移到这里
+      - ./quarantine:/data/quarantine
+      # 配置文件 — 只读挂载
+      - ./config:/app/config:ro
+      # 日志持久化
+      - ./logs:/app/logs
+
+    stdin_open: true
+    tty: true
